@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c610a3120e937f54eb33d7f5551454fd, type: 3}
+  m_Name: Items_Question3
+  m_EditorClassIdentifier: 
+  questionString: How much health does a Zz'Rot Portal have when you put it down?
+  questionImage: {fileID: 21300000, guid: 88a53efb142739b43b3ac3e9db4f4a84, type: 3}
+  questionAnswers:
+  - 5
+  - 5 hp
+  - 5hp
+  - 5 health
+  - 5health
